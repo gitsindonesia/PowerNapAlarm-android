@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings for OI About -->
+    <string name="about_comments">A power nap is a short sleep which terminates before the occurrence of deep sleep or slow-wave sleep (SWS).</string>
+
+    <string name="about_website_label">PowerNap By GITS Indonesia</string>
+
+    <!-- Name of application -->
+    <string name="app_name">Power Nap</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="banner_ad_unit_id">[Replace with your banner unit ID]</string>
+</resources>
